@@ -1,6 +1,6 @@
 # Palitos.XYZ 
  
-Palitos.XYZ  is an online platform to learn robotics and programming in a practical and fun way using virtual ice cream sticks.  
+Palitos.XYZ  is an online platform to learn robotics and programming in a practical and fun way using virtual ice cream sticks and real World Sticks.  
  
 The project allows users to assemble structures and robots by dragging 3D sticks and interacting with them in a virtual environment close to the real world. 
  
